@@ -35,10 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=binaryxlang0000&show_icons=true&theme=tokyonight" alt="binaryxlang0000's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binaryxlang0000&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🔗 Connect With Me
